@@ -1,0 +1,33 @@
+.container 
+{ 
+	height: 100%;
+	padding: 1.5em;
+  color: red;
+}
+
+body 
+{ 
+	background-color: #333; 
+	font-size: 1rem; 
+  text-align: center;
+} 
+
+label
+{
+  color: #151B8D;
+  font-weight: bold;
+}
+
+input
+{
+  line-height: 200%;
+}
+
+form
+{
+  background-color: #ADDAE6;
+  display: inline-block;
+   text-align: center;
+   vertical-align: middle;
+  border-radius: 10%;
+}
